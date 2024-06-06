@@ -14,3 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+# Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0007-reverse-integer) |
