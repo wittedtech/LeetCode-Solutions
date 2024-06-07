@@ -18,3 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+# String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
