@@ -18,7 +18,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 # String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+# Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
