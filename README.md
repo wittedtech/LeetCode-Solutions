@@ -61,4 +61,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Harshit-BCS/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
